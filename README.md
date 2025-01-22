@@ -1,5 +1,3 @@
-Aqui está uma versão modernizada e visualmente mais atraente para o seu README:
-
 🎯 Jogo do Número Secreto
 🎮 "Adivinhe o número secreto e teste sua sorte!"
 
