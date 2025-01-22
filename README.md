@@ -1,3 +1,5 @@
+Aqui está uma versão modernizada e visualmente mais atraente para o seu README:
+
 🎯 Jogo do Número Secreto
 🎮 "Adivinhe o número secreto e teste sua sorte!"
 
@@ -49,3 +51,4 @@ Abra o arquivo index.html no seu navegador preferido.
 ✨ Gostou do projeto?
 ⭐ Não esqueça de dar uma estrela no repositório!
 📩 Feedbacks e sugestões são bem-vindos.
+
